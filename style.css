@@ -103,3 +103,10 @@ h2 {
     gap: 24px;
     justify-content: center;
 }
+
+.footer {
+    background:#1F2937;
+    text-align: center;
+    padding: 18px;
+    color:#E5E7EB;
+}
