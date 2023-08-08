@@ -39,8 +39,14 @@ button {
     border-radius: 8px;
     font-size: 18px;
     font-weight: bold;
+    padding: 8px;
     padding-inline: 18px;
-    padding: 4px;
+}
+
+.button-two {
+    border-width: 2px;
+    border-style: solid; /* need to apply border style to force border to show */
+    border-color:#E5E7EB;
 }
 
 .logo {
@@ -130,4 +136,28 @@ h2 {
     font-size: 18px;
     font-weight: bold;
     color:#1F2937;
+}
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    padding:50px;
+}
+
+.box {
+    display: flex;
+    padding-block: 40px;
+    padding-inline: 80px;
+    justify-content: space-between;
+    background: #3882F6;
+    border-radius: 8px;
+    gap: 40px;
+    color:#E5E7EB;
+}
+
+h6 {
+    color:#F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
 }
