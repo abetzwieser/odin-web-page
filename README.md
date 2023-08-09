@@ -4,4 +4,6 @@ Practice web page following The Odin Project exercise (https://www.theodinprojec
 
 Images used from:
 
-(image 1) royaloxfordphotography @ unsplash.com
+(image 1 - tree) royaloxfordphotography @ unsplash.com
+
+(image 2 - tiger) Mike Marrah @ unsplash.com
